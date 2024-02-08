@@ -1,5 +1,1 @@
- Given I open chrome browser
-    When I visit the application
-    Then I should see the logo
- And I enter the user name 
-And I enter the password
+Hello, today we are learning commoand line
